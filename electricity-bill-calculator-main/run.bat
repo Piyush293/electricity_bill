@@ -1,1 +1,0 @@
-java -jar electricity-bill-calculator-main.jar
